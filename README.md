@@ -8,7 +8,7 @@ Get the inputs from the user
 ### Step 2: 
 Classify with x1,x2 and y1,y2 points
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula
 ### Step 4: 
 Import the module
 ### Step 5: 
