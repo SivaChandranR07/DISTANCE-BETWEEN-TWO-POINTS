@@ -31,4 +31,5 @@ print("{:.2f}".format(d))
 ![OUTPUT](OU.png)
 
 
-### RESULT:This program is used to find the distance between two points
+### RESULT:
+This program is used to find the distance between two points
